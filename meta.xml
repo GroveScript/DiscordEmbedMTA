@@ -1,0 +1,7 @@
+<meta> 
+    <script src="server.lua" type="server"/>
+    
+    <info author="GroveScript" version="1.0.0" name="discord_embed" type="script"/>
+    <min_mta_version server="1.5.8-9.20979" client="1.5.8-9.20979"/>
+    <oop>true</oop>
+</meta>
