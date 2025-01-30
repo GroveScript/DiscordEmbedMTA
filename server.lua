@@ -28,7 +28,7 @@ end
 
 --Exemplo
 addCommandHandler("teste", function(player)
-  sendDiscordEmbed("https://discord.com/api/webhooks/1334571431425736768/6YVOA3dzeIO-eA4cwyEdyNc5eKAGaYF01NduQEaPJ9vOrNO-zhZ-cqqa1q25GO7_3osi", 0x8403fc, "https://down-br.img.susercontent.com/file/f144dbd2fb7917538bd2068729a0fcc9", "LOG", "teste", {
+  sendDiscordEmbed("URL_do_webhook", 0x8403fc, "https://down-br.img.susercontent.com/file/f144dbd2fb7917538bd2068729a0fcc9", "LOG", "teste", {
     { name = "Player", value = "```" .. player:getName() .. "```", inline = true },
     { name = "Teste 1", value = "```" .. "Hello, world" .. "```", inline = true },
     { name = "Teste 2", value = "```" .. "gfkiifdngndfuingiun dfingh dhn ndguihnu nugdh" .. "```", inline = true },
